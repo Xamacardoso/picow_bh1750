@@ -5,7 +5,7 @@ Este projeto implementa um sistema de monitoramento de luminosidade utilizando o
 ## 🛠️ Funcionalidades
 - Leitura de luminosidade (lux) com sensor BH1750 via I2C
 - Controle de servo motor SG90 via PWM
-- Mapeamento automático do valor de lux (0 a 1000 lux) para ângulo do servo (0° a 180°)
+- Mapeamento automático do valor de lux para ângulo do servo (0° a 180°)
 - Mensagens de status e leitura exibidas no terminal serial
 
 ## 📁 Estrutura do Projeto
