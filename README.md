@@ -29,7 +29,7 @@ Este projeto implementa um sistema de monitoramento de luminosidade utilizando o
 ### 📋 Passos
 1. **Clone o repositório e configure o Pico SDK:**
    ```sh
-   git clone <este-repo>
+   git clone https://github.com/Xamacardoso/picow_bh1750.git
    cd u3-i1-bh1750
    mkdir build && cd build
    cmake ..
